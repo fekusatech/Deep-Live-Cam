@@ -1,26 +1,12 @@
-__pycache__/
-*.py[cod]
-*$py.class
-*.pyc
-.idea
-.todo
-*.log
-*.backup
-tf_env/
-*.png
-*.mp4
-*.mkv
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-.tmp/
-temp/
-.venv/
-venv/
-env/
-workflow/
-gfpgan/
-models/inswapper_128.onnx
-models/GFPGANv1.4.pth
-*.onnx
-models/DMDNet.pth
-faceswap/
-.vscode/
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
